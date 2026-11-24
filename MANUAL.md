@@ -11,6 +11,9 @@ A shared whiteboard for threat modelling. Draw components and data flows, get th
 ## 3. Demo
 Live board locally: `npm run dev`, then open http://localhost:5173. Capture to record: drawing a cross-boundary flow and the threats appearing.
 
+![Real test run, captured 24 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 24 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Node.js and npm.
 
