@@ -1,4 +1,4 @@
-import "@testing-library/jest-dom";
+import "@testing-library/jest-dom/vitest";
 
 // jsdom implements PointerEvent but drops clientX/clientY from the init dict.
 // Re-base it on MouseEvent (which jsdom honours) so pointer-drag tests get real
