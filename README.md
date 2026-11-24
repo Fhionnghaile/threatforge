@@ -4,7 +4,7 @@
 > **A collaborative threat-modelling board: draw an architecture, get STRIDE threats, edit it live with others.**  
 > **Result:** 15 Vitest tests + a clean build; CRDT convergence tested.  
 > **Reproduce:** `npm ci && npm test`  
-> ![CI](https://github.com/fhionnghaile/threatforge/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/threatforge/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/threatforge/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/threatforge)
 >
 > **What this is worth:** Makes threat modelling a live team activity with an exportable report, instead of a stale diagram nobody updates.
 
